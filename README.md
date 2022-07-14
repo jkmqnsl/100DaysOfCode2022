@@ -6,14 +6,9 @@ Before, I already had experience in developing a front-end design of a website u
 
 This challenge paved a way for me to improve my skills as well as learn new technologies regarding full-stack web development. Join me as I document my progress for the next 100 days!
 
-*Last updated: 7/15/2022*
+*Last updated: 7/11/2022*
 
 ## Day 1: HTML Basics [July 11, 2022]
 On this day, I relearned the basics of HTML through freeCodeCamp. I chose the freeCodeCamp as my major resource (along with W3Schools) not just because it is free but also because it has a well-structured curriculum. **I started to built a Cat Photo App**. I did not finished it since I had something else to do by tomorrow morning. 
 
 ![](Documentation/Day1.jpg) 
-
-## Day 2: HTML Basics [July 14, 2022]
-I was not able to continue working with the Cat photo app for two days because I had to attend some social gatherings. However, on this day, luckily I was able to continue re-learning the HTML. I worked on adding figures, figure captions, and adding forms as well as a button in the page. Below is my progress.
-
-![](Documentation/Day2.jpg)
