@@ -17,3 +17,8 @@ On this day, I relearned the basics of HTML through freeCodeCamp. I chose the fr
 I was not able to continue working with the Cat photo app for two days because I had to attend some social gatherings. However, on this day, luckily I was able to continue re-learning the HTML. I worked on adding figures, figure captions, and adding forms as well as a button in the page. Below is my progress.
 
 ![](Documentation/Day2.jpg)
+
+## Day 3: HTML Basics [July 21, 2022]
+I stopped coding for days. This week was extremely busy. But now, I am back to studying and coding. Today, I finished the HTML Basics (in freeCodeCamp) and I finished doing my Cat Photo App. I am now currently studying different HTML basic syntax using W3Schools and learning some new **git** commands.  
+
+![](Documentation/Day%203.gif)
